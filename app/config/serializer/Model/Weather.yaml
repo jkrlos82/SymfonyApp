@@ -1,0 +1,10 @@
+App\Model\Dto\WeatherAPIResponse:
+    attributes:
+        name:
+            groups: ['weather']
+        dt:
+            groups: ['weather']
+        main:
+            groups: ['weather']
+        sys:
+            groups: ['weather']
